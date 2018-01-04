@@ -1,0 +1,6 @@
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe.config
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\bin\Debug\AreaFinder.pdb
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csprojResolveAssemblyReference.cache
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\obj\Debug\AreaFinder.exe
+D:\CompSc\C#\LABS\AreaFinder\AreaFinder\obj\Debug\AreaFinder.pdb
